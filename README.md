@@ -1,2 +1,2 @@
 # html-gj-korcham
-## Cloud반 Repository 입니다.
+## Cloud반의 HTML Repository 입니다.
